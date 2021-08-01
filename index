@@ -1,6 +1,9 @@
-<!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
-<h1 style="color: #5e9ca0;">Halo,</h1>
-<h2 style="color: #2e6c80;">selamat datang di halaman web saya</h2>
-<p>ini adalah halaman web utama belajar website mandiri. </p>
-<p>tahun <span style="background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;">2021</span> button to clean your source code.</p>
-<p>&nbsp;</p>
+<!DOCTYPE html>
+<html>
+     <head>
+          <title>My Website</title>
+     </head>
+     <body>
+          Halo selamat datang
+     </body>
+</html>
